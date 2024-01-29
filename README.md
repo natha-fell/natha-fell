@@ -3,7 +3,7 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor *Front-End* Aprendiz
+💻 Eu sou um desenvolvedor *Front-End* 
 
 **Tecnologias e Ferramentas**
 
