@@ -2,35 +2,6 @@
  <h1 align="center">Olá, meu nome é Nathã Fellipe 👋😀</h1>
  <h1 align="center">Seja muito bem vindo ao meu perfil!</h1> 
 
-[🇺🇸 Translate to English](#translate-to-english)
-<a name="translate-to-english"></a>
-<script>
-function translateToEnglish() {
-  // Obtém o conteúdo atual do README
-  var currentContent = document.body.innerHTML;
-
-  // Adiciona um aviso indicando que a tradução está em andamento
-  document.body.innerHTML = "<p>Translating to English...</p>";
-
-  // Obtém o conteúdo do README via API de tradução do Google
-  fetch("https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=en&dt=t&q=" + encodeURIComponent(currentContent))
-    .then(response => response.json())
-    .then(data => {
-      // Extrai o texto traduzido da resposta
-      var translatedText = data[0].map(item => item[0]).join('');
-
-      // Atualiza o corpo do README com o texto traduzido
-      document.body.innerHTML = translatedText;
-    })
-    .catch(error => {
-      // Em caso de erro, exibe uma mensagem
-      document.body.innerHTML = "<p>Translation failed. Please try again later.</p>";
-    });
-}
-</script>
-
-[Translate to English](javascript:translateToEnglish())
-
 ### Sobre mim
 
 💻 Eu sou um desenvolvedor *Front-End* 
