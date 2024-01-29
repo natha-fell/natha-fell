@@ -6,9 +6,10 @@
 
 __Sobre Mim__
 
-| ---------------------------------- |
-| ---------------------------------- |
-| <div style="color:purple;padding: 10px; border-radius: 5px; text-align: center;">**Sou um desenvolvedor Front-End**</div> |
+|                                    |
+|----------------------------------- |
+|**Sou um desenvolvedor Front-End🇧🇷**|
+|**I'm a front-end developer🇺🇸**|
 
 **Tecnologias e Ferramentas**
 
