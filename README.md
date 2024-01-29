@@ -1,10 +1,14 @@
 
  <h1 align="center">Olá, meu nome é Nathã Fellipe 👋😀</h1>
- <h1 align="center">Seja muito bem vindo ao meu perfil!</h1> 
+<h1 align="center">Seja muito bem vindo ao meu perfil!  </h1> 
 
-### Sobre mim
+<div align="center" style="display: inline_block"><br>
 
-💻 Eu sou um desenvolvedor *Front-End* 
+__Sobre Mim__
+
+| ---------------------------------- |
+| ---------------------------------- |
+| <div style="color:purple;padding: 10px; border-radius: 5px; text-align: center;">**Sou um desenvolvedor Front-End**</div> |
 
 **Tecnologias e Ferramentas**
 
@@ -26,7 +30,6 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 -->
 
 ### GitHub Stats ⚡
-<div>
 <a href="https://github.com/natha-fell">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natha-fell&layout=compact&langs_count=7&theme=dracula"/>
 
