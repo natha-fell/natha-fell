@@ -8,8 +8,8 @@ __Sobre Mim__
 
 |                                    |
 |----------------------------------- |
-|**Sou um desenvolvedor Front-End🇧🇷**|
-|**I'm a front-end developer🇺🇸**|
+|**Sou um desenvolvedor Front-End  🇧🇷**|
+|**I'm a front-end developer       🇺🇸**|
 
 **Tecnologias e Ferramentas**
 
