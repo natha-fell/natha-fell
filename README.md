@@ -1,7 +1,9 @@
 <h1 align="center">Olá, meu nome é Nathã Fellipe 👋😀</h1>
 <h1 align="center">Seja muito bem vindo ao meu perfil!  </h1> 
 <div align="center" style="display: inline_block"><br>
+ 
 __Sobre Mim__
+
 |                                    |
 |----------------------------------- |
 |**Sou um desenvolvedor Front-End  🇧🇷**|
