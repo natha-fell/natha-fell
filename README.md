@@ -1,11 +1,7 @@
-
- <h1 align="center">Olá, meu nome é Nathã Fellipe 👋😀</h1>
+<h1 align="center">Olá, meu nome é Nathã Fellipe 👋😀</h1>
 <h1 align="center">Seja muito bem vindo ao meu perfil!  </h1> 
-
 <div align="center" style="display: inline_block"><br>
-
 __Sobre Mim__
-
 |                                    |
 |----------------------------------- |
 |**Sou um desenvolvedor Front-End  🇧🇷**|
@@ -13,25 +9,16 @@ __Sobre Mim__
 
 **Tecnologias e Ferramentas**
 
-<!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 <div align=center>
  <img src=https://github.com/natha-fell/natha-fell/assets/157435228/86876bd3-7a3f-464f-b6d4-b4269c75bdc2/>
 </div>
 
 ### Cursos realizados 🤓
 
-<!-- (Aqui você pode adicionar cursos que você já fez) -->
-
 https://devemdobro.com/matriculas-abertas/
-
-<!--
-Substitua o usuário lbguilherme pelo seu usuário no GitHub.
--->
 
 ### GitHub Stats ⚡
 <a href="https://github.com/natha-fell">
