@@ -1,5 +1,6 @@
 
-# Olá, me chamo *Nathã Fellipe* 👋😃
+ <h1 align="center">Olá, meu nome é Nathã Fellipe 👋😀</h1>
+  <h1 align="center">Seja muito bem vindo ao meu perfil!</h1> 
 
 ### Sobre mim
 
@@ -32,4 +33,5 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 ### Entre em contato comigo! 📭
 <div>
 <a href="www.linkedin.com/in/nathã-fellipe-a428b2277" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:nathafguartieri70@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
