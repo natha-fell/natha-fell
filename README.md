@@ -19,6 +19,9 @@ __Sobre Mim__
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+<div align=center>
+ <img src=https://github.com/natha-fell/natha-fell/assets/157435228/86876bd3-7a3f-464f-b6d4-b4269c75bdc2/>
+</div>
 
 ### Cursos realizados 🤓
 
