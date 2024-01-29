@@ -1,6 +1,5 @@
-# academy-template-readme-profile
 
-# Oi, me chamo *Nathã Fellipe* 👋😃
+# Olá, me chamo *Nathã Fellipe* 👋😃
 
 ### Sobre mim
 
