@@ -22,6 +22,10 @@ __Sobre Mim__
 
 https://devemdobro.com/matriculas-abertas/
 
+### Certificados 🏅
+
+https://github.com/natha-fell/natha-fell/assets/157435228/1dcbc406-f903-44e1-874a-431b24f11cba
+
 ### GitHub Stats ⚡
 <a href="https://github.com/natha-fell">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natha-fell&layout=compact&langs_count=7&theme=dracula"/>
